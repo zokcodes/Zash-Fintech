@@ -1,0 +1,31 @@
+body{
+    font-family: Inter, sans-serif;
+}
+
+.dark-mode {
+    background-color: #111827 !important;
+    color: white !important;
+}
+
+.dark-mode .card {
+    background-color: #1d2836 !important;
+    color: white !important;
+}
+
+.dark-mode .sidebar {
+    background-color: #141d30 !important;
+}
+
+.dark-mode .header {
+    background-color: #1F2937 !important;
+}
+
+.dark-mode .button {
+    background-color: #162030 !important;
+    color: white !important;
+}
+
+.dark-mode .box {
+    background-color: #2b3441 !important;
+    color: white !important;
+}
