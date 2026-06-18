@@ -1,2 +1,23 @@
-# Zash-Fintech
-Projeto de uma aplicação web de uma Fintech utilizando HTML, CSS e JavaScript e outras tecnologias ensinadas durante meu período de faculdade.
+# ZASH Fintech
+
+Dashboard financeiro desenvolvido para a atividade da Fase 4 da FIAP.
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- Font Awesome
+
+## Funcionalidades
+
+- Dashboard financeiro
+- Controle de receitas
+- Controle de gastos
+- Objetivos financeiros
+- Investimentos
+- Layout responsivo
+
+## Autor
+
+Ryan Mendes
